@@ -2,9 +2,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" vertical-align="top" src="https://github-readme-stats.vercel.app/api?username=f1sh1918&count_private=true&show_icons=true&theme=gruvbox" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=f1sh1918&count_private=true&show_icons=true&theme=gruvbox" />
-</a>
 </div>
 
 ### Hi there 👋
