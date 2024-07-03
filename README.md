@@ -1,3 +1,5 @@
+[![f1sh1918's GitHub stats](https://github-readme-stats.vercel.app/api?username=f1sh1918&hide=stars&show=reviews&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 i'm Andy and i love birds 😄
