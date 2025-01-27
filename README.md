@@ -2,9 +2,8 @@
 
 ### Hi there 👋
 
-i'm Andy and i love birds 😄
+i'm Andy and i love birds :duck:
 
-- 🌱 I’m currently learning flutter and kotlin.
 <!--
 **f1sh1918/f1sh1918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
